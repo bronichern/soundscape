@@ -1,0 +1,9 @@
+
+feat_path: ""
+layer: "kr_layer12"
+tsv_name: "kr_en_full.tsv"
+seed: 31415
+time_frame: 5
+sentence_id: 'EN038'
+speaker1: 'EF08'
+speaker2: 'KF04'
